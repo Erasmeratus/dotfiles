@@ -55,15 +55,17 @@ brew install lynx
 brew install 7zip
 brew install pv
 brew install ssh-copy-id
+brew install trash
 brew install tree
 brew install alacritty
 brew install tmux
 brew install fzf
 brew install bat
-
+brew install diff-so-fancy
+brew install python
 
 # Install lazyvim
-brew install nvim
+brew install "neovim --HEAD"
 brew install jesseduffield/lazygit/lazygit
 brew install ripgrep
 brew install fd
