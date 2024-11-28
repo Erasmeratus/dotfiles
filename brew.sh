@@ -63,6 +63,7 @@ brew install fzf
 brew install bat
 brew install diff-so-fancy
 brew install python
+brew install --cask nikitabobko/tap/aerospace
 
 # Install lazyvim
 brew install "neovim --HEAD"
